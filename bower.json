@@ -1,0 +1,22 @@
+{
+  "name": "script jquery",
+  "homepage": "https://github.com/nahroun/script-jquery",
+  "authors": [
+    "zeineb"
+  ],
+  "description": "simple jquery demonstartion",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "Font-Awesome#^4.7.0"
+  }
+}

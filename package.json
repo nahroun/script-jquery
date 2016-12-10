@@ -1,0 +1,19 @@
+{
+  "name": "script-jquery",
+  "version": "1.0.0",
+  "description": "lsimple demonstartion",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nahroun/script-jquery.git"
+  },
+  "author": "zeineb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nahroun/script-jquery/issues"
+  },
+  "homepage": "https://github.com/nahroun/script-jquery#readme"
+}
