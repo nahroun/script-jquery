@@ -1,3 +1,5 @@
 #ingnore bower components
+
 bower_components
-node_modules/.*
+
+node_modules
